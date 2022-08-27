@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\bin\Debug\net6.0\007_Magic(Точки).exe
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\bin\Debug\net6.0\007_Magic(Точки).deps.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\bin\Debug\net6.0\007_Magic(Точки).runtimeconfig.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\bin\Debug\net6.0\007_Magic(Точки).dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\bin\Debug\net6.0\007_Magic(Точки).pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).AssemblyInfo.cs
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\refint\007_Magic(Точки).dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\007_Magic(Точки).genruntimeconfig.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\007_Magic(Точки)\obj\Debug\net6.0\ref\007_Magic(Точки).dll

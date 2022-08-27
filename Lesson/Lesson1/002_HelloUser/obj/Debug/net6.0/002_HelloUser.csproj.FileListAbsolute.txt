@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.AssemblyInfo.cs
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\bin\Debug\net6.0\002_HelloUser.exe
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\bin\Debug\net6.0\002_HelloUser.deps.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\bin\Debug\net6.0\002_HelloUser.runtimeconfig.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\bin\Debug\net6.0\002_HelloUser.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\bin\Debug\net6.0\002_HelloUser.pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\refint\002_HelloUser.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\002_HelloUser.genruntimeconfig.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\002_HelloUser\obj\Debug\net6.0\ref\002_HelloUser.dll

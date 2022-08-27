@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\bin\Debug\net6.0\003_Sum.exe
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\bin\Debug\net6.0\003_Sum.deps.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\bin\Debug\net6.0\003_Sum.runtimeconfig.json
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\bin\Debug\net6.0\003_Sum.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\bin\Debug\net6.0\003_Sum.pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.AssemblyInfo.cs
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\refint\003_Sum.dll
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.pdb
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\003_Sum.genruntimeconfig.cache
+G:\ВИКА\Программирование\3 С#\Lesson\C--Lesson\Lesson1\003_Sum\obj\Debug\net6.0\ref\003_Sum.dll
