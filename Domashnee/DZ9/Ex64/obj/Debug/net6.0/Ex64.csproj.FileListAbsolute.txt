@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\bin\Debug\net6.0\Ex64.exe
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\bin\Debug\net6.0\Ex64.deps.json
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\bin\Debug\net6.0\Ex64.runtimeconfig.json
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\bin\Debug\net6.0\Ex64.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\bin\Debug\net6.0\Ex64.pdb
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.AssemblyInfo.cs
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\refint\Ex64.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.pdb
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\Ex64.genruntimeconfig.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ9\Ex64\obj\Debug\net6.0\ref\Ex64.dll
