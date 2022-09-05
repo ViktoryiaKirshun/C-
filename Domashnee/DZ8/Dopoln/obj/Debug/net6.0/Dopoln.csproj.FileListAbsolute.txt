@@ -1,0 +1,15 @@
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\bin\Debug\net6.0\Dopoln.exe
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\bin\Debug\net6.0\Dopoln.deps.json
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\bin\Debug\net6.0\Dopoln.runtimeconfig.json
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\bin\Debug\net6.0\Dopoln.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\bin\Debug\net6.0\Dopoln.pdb
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.csproj.AssemblyReference.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.GeneratedMSBuildEditorConfig.editorconfig
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.AssemblyInfoInputs.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.AssemblyInfo.cs
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.csproj.CoreCompileInputs.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\refint\Dopoln.dll
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.pdb
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\Dopoln.genruntimeconfig.cache
+G:\ВИКА\Программирование\3 С#\C#\C-\Domashnee\DZ8\Dopoln\obj\Debug\net6.0\ref\Dopoln.dll
